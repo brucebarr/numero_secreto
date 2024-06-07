@@ -1,2 +1,2 @@
 # numero_secreto
-Projeto de testes do curso de GItHub e Git da Alura.
+Projeto de testes do curso de GitHub e Git da Alura.
